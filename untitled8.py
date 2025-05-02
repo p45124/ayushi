@@ -11,7 +11,7 @@ import streamlit as st
 
 
 
-st.set_page_config(page_title="🌸 Your Mood, My 90s Song 💖")
+st.set_page_config(page_title="🌸 Your Mood, My Song 💖  Made by apka Vishwas")
 
 st.title("🎵 Your Mood, My 90s Hindi Song 💕")
 st.write("Hey love! Tell me your mood, and I'll dedicate a song just for you 💌")
